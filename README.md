@@ -7,8 +7,8 @@
   - Project Problem Solver 
    
   - Programming with C languages, HTML, CSS, JS, .PHP 
-  - Networking 
-  - System Administration  
+  - Networking - Junior Level
+  - System Administration 
   - Database Management - Small business /MySQL/
   
          I look to collaborate on various projects or initiatives

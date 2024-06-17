@@ -25,14 +25,15 @@
   The best thing you can do when you feel    lazy is to take a cold shower.
 
 
-  Potion Recipe:
- ----------------------------------------------------------------------
+                   Potion Recipe:
+ --------------------------------------------------------------------------------------------------------
   * 2 oz Gin                                           
   * 1/2 oz Elderflower Liqueur (like St-Germain)      
   * 3/4 oz Pineapple Juice                           
   * 1/2 oz Lime Juice                                  
   * 1/2 tsp Grenadine Syrup
  
+
   Combine all ingredients (except grenadine) in a shaker filled with ice.
   Shake well and strain into a chilled coupe glass.
   Slowly pour the grenadine syrup down the back of a bar spoon,

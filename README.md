@@ -1,7 +1,7 @@
  
  Education Status: Permanently Active
                                                                      
-  - Higher education - Internet and Mobile Communications
+  - Higher education - Bachelor of Internet and      Mobile Communications
                                               
   - Only For The Service;
   - Project Problem Solver 
@@ -24,8 +24,7 @@
 - ⚡ Fun fact: 
   The best thing you can do when you feel    lazy is to take a cold shower.
 
-  Potion Recipe:
-   ----------------------------------------------------------------------
+  Potion Recipe: ----------------------------------------------------------------------
   * 2 oz Gin                                           
   * 1/2 oz Elderflower Liqueur (like St-Germain)      
   * 3/4 oz Pineapple Juice                           
